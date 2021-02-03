@@ -1,0 +1,13 @@
+@import 'font.scss';
+@import 'global.scss';
+@import 'login.scss';
+
+
+// COMPONENTS
+@import './components/header';
+@import './components/footer';
+@import './components/drawer';
+
+
+// ADMIN STYLES
+@import './admin/dashboard';
