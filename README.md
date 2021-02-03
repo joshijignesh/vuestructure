@@ -1,4 +1,6 @@
-# xinoibwebui
+# vuestructure
+
+## Vue + Vuetify + Router
 
 ## Project setup
 ```
